@@ -1,6 +1,5 @@
 
 ### Olá 👋, Eu me chamo <a href="https://www.linkedin.com/in/bernardo-augusto-dev/" target="_blank">Bernardo Augusto 😃️</a>
-<img src="https://img.shields.io/github/followers/BernardooDev.svg?style=social&label=Follow&maxAge=2592000">
 
  <p align="left">
   <strong> Estou aprendendo a ser um desenvolvedor, pretendo me tornar um DevOps </strong>
