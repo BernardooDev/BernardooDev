@@ -4,8 +4,7 @@
 <h1> Olá 👋, Eu me chamo <a href="https://www.linkedin.com/in/bernardo-augusto-dev/" target="_blank">Bernardo Augusto</a></h1>
 
 <div align="center">
-  <p><strong> Estou aprendendo a ser um desenvolvedor, pretendo me tornar um DevOps.</p> 
-  <p> Atualmente estou focando em Docker e Linux, quero iniciar meu conhecimento com Python </strong></p>
+  <p align="center"><strong> Estou aprendendo a ser um desenvolvedor, pretendo me tornar um DevOps.</p> <p align="center"> Atualmente estou focando em Docker e Linux, quero iniciar meu conhecimento com Python </strong></p>
 </div>
 <br>
 <br>
