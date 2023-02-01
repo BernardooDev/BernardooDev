@@ -1,6 +1,6 @@
 
-<br><img align="left"  height="150" width="150" src="https://loogart.com/img/loogmoji/iconic/loogmoji-of-jon-snow_by-loogart.png">
-<img align="right"  height="150" width="150" src="https://loogart.com/img/loogmoji/iconic/loogmoji-of-darth-vader_by-loogart.png"><br>
+<br><img align="left"  height="150" width="140" src="https://loogart.com/img/loogmoji/iconic/loogmoji-of-jon-snow_by-loogart.png">
+<img align="right"  height="150" width="140" src="https://loogart.com/img/loogmoji/iconic/loogmoji-of-darth-vader_by-loogart.png"><br>
 <h1> Olá 👋, Eu me chamo <a href="https://www.linkedin.com/in/bernardo-augusto-dev/" target="_blank">Bernardo Augusto 😃️</a></h1>
 
 <div align="center">
