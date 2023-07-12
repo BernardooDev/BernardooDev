@@ -7,7 +7,6 @@
   <p align="center"><strong> Estou aprendendo a ser um desenvolvedor, pretendo me tornar um DevOps.</p> <p align="center"> Atualmente estou focando em Aplicação Web, estou estudando React e NodeJs  </strong></p>
 </div>
 <br>
-<br>
  <div align="center">
   <a href="https://github.com/BernardooDev">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BernardooDev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=0" alt="BernardooDev Github Status"/> 
