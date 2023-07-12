@@ -8,9 +8,9 @@
 </div>
 <br>
  <div align="center">
-  <a href="https://github.com/BernardooDev">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BernardooDev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=0" alt="BernardooDev Github Status"/> 
-    <img width="50%" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardooDev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&border_radius=0" />
+  <a href="https://github.com/BernardooDev" align="center">
+    <img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BernardooDev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=0" alt="BernardooDev Github Status"/> 
+    <img  align="center" width="50%" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardooDev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&border_radius=0" />
   </a>
 </div>
 <div align="center" valign="top"><br>
